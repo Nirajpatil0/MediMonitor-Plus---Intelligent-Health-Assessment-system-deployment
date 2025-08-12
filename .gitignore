@@ -1,0 +1,8 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore inner test_images folder
+dataset/test_images/test_images/
+
+# Ignore inner train_images folder
+dataset/train_images/train_images/

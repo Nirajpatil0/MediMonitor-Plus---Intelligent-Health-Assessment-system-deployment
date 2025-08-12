@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+dataset/test_images/test_images/
+dataset/train_images/train_images/
+
